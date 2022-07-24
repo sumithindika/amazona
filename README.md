@@ -1,1 +1,1 @@
-# amazona
+# amazona react mern app
